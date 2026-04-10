@@ -7,6 +7,7 @@ console.log("Loops in JavaScript")
 
 // for loop // while loop // do while loop
 
+
 // for(let i = 1; i <= 5; i++){
 //     console.log(i)
 // }
